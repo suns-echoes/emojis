@@ -10,7 +10,7 @@ Not having to search the internet again to find something useful
 
 ### GUI
 
-| Glyph | Name | Unicode | Tags |
+| Emoji | Name | Unicode | Tags |
 |:-----:|:-----|:--------|:-----|
 | 📄 | Page Facing Up | U+1F4C4 | paper, page, file, new, copy |
 | 📝 | Memo | U+1F4DD | paper, page, edit |
@@ -21,13 +21,15 @@ Not having to search the internet again to find something useful
 | ⭐ | White Medium Star | U+2B50 | star, favorite |
 | 📅 | Calendar | U+1F4C5 | calendar |
 | 🗐 | Pages | U+1F5D0 | pages |
+| ⚙️ | Gear | U+2699 | gear, settings, configuration, options |
+| ⌨ | Keyboard | U+2328 | keyboard |
+| 💻 | Personal Computer | U+1F5D0 | personal computer, computer, laptop |
 
 ### Icons
 
 | Glyph | Name | Unicode | Tags |
 |:-----:|:-----|:--------|:-----|
 | ℹ | Information Source | U+2139 | information, info |
-| ⚠ | Warning Sign | U+26A0 | warning |
 | ⚠️ | Warning Sign | U+26A0 | warning |
 | ❌ | Cross Mark | U+274C | fail, error |
 | 🛑 | Octagonal Sign | U+1F6D1 | error, stop |
