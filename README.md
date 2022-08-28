@@ -79,6 +79,13 @@ Not having to search the internet again to find something useful
 | ❎ | Negative Squared Cross Mark | U+274E | green, crossmark, checkmark, x, unchecked, restricted, disabled |
 | ➜ | Heavy Round-Tipped Rightwards Arrow | U+279C | arrow, heavy, right, rounded |
 
+### [Supplemental Arrows-A](https://www.compart.com/en/unicode/block/U+27F0)
+
+| Glyph | Name | Unicode | Tags |
+|:-----:|:-----|:--------|:-----|
+| ⟲ | Anticlockwise Gapped Circle Arrow | U+27F2 | circle, round, arrow, left, anticlockwise |
+| ⟳ | Clockwise Gapped Circle Arrow | U+27F3 | circle, round, arrow, right, clockwise, refresh |
+
 ### [Miscellaneous Symbols and Arrows](https://www.compart.com/en/unicode/block/U+2B00)
 
 | Glyph | Name | Unicode | Tags |
@@ -224,39 +231,3 @@ Not having to search the internet again to find something useful
 ## Sources
 
 https://www.compart.com/en/unicode/
-
-### Mathematical
-
-Unicode Block “Mathematical Operators”
-https://www.compart.com/en/unicode/block/U+2200
-
-Unicode Block “Miscellaneous Mathematical Symbols-A”
-https://www.compart.com/en/unicode/block/U+27C0
-
-Unicode Block “Miscellaneous Mathematical Symbols-B”
-https://www.compart.com/en/unicode/block/U+2980
-
-Unicode Block “Supplemental Mathematical Operators”
-https://www.compart.com/en/unicode/block/U+2A00
-
-Unicode Block “Mathematical Alphanumeric Symbols”
-https://www.compart.com/en/unicode/block/U+1D400
-
-Unicode Block “Arabic Mathematical Alphabetic Symbols”
-https://www.compart.com/en/unicode/block/U+1EE00
-
-### Symbols and Arrows
-
-Unicode Block “Miscellaneous Symbols and Arrows”
-https://www.compart.com/en/unicode/block/U+2190
-https://www.compart.com/en/unicode/block/U+2B00
-
-### Technical
-
-Unicode Block “Miscellaneous Technical”
-https://www.compart.com/en/unicode/block/U+2300
-
-### Symbols and Pictographs
-
-Unicode Block “Miscellaneous Symbols and Pictographs”
-https://www.compart.com/en/unicode/block/U+1F300
